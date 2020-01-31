@@ -1,0 +1,8 @@
+1st block: Overview of the relevant Python library modules – getting familiar with the dataset, generating plots to examine feature/class distributions.
+2nd block: Introduction to ML – k-Nearest Neighbor Classification – train-validation-test procedure
+3rd block: Pre-processing – data type conversion, normalization, feature selection…
+4th block: Performance evaluation – ROC, Precision-recall… overfitting
+5th and 6th blocks: 2-3 classification algorithms – e.g. Naïve Bayes, Random Forest, Neural Networks – classification as a whole including pre-processing and performance evaluation
+7th block: Deep Learning – convolutional neural networks
+8th block: Regression; Unsupervised learning - clustering (k-means, PCA, TSNE)
+ 
